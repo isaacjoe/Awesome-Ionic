@@ -7,6 +7,7 @@ A curated list of awesome Ionic libraries, resources and solutions.
 - General
 	- [Official Website](http://ionicframework.com)
 	- [Documents](http://ionicframework.com/docs/)
+	- [Documents ionic v2] (http://ionicframework.com/docs/v2/)
 	- [Github Repository](https://github.com/driftyco/ionic)
 	- [Showcase](http://showcase.ionicframework.com/)
 	- [Learn Ionic](http://learn.ionicframework.com/)
